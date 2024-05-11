@@ -1,0 +1,90 @@
+D:\inventory system project\inventory system project\bin\Debug\net8.0\inventory system project.exe
+D:\inventory system project\inventory system project\bin\Debug\net8.0\inventory system project.deps.json
+D:\inventory system project\inventory system project\bin\Debug\net8.0\inventory system project.runtimeconfig.json
+D:\inventory system project\inventory system project\bin\Debug\net8.0\inventory system project.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\inventory system project.pdb
+D:\inventory system project\inventory system project\obj\Debug\net8.0\inventory system project.GeneratedMSBuildEditorConfig.editorconfig
+D:\inventory system project\inventory system project\obj\Debug\net8.0\inventory system project.AssemblyInfoInputs.cache
+D:\inventory system project\inventory system project\obj\Debug\net8.0\inventory system project.AssemblyInfo.cs
+D:\inventory system project\inventory system project\obj\Debug\net8.0\inventory system project.csproj.CoreCompileInputs.cache
+D:\inventory system project\inventory system project\obj\Debug\net8.0\inventory system project.dll
+D:\inventory system project\inventory system project\obj\Debug\net8.0\refint\inventory system project.dll
+D:\inventory system project\inventory system project\obj\Debug\net8.0\inventory system project.pdb
+D:\inventory system project\inventory system project\obj\Debug\net8.0\inventory system project.genruntimeconfig.cache
+D:\inventory system project\inventory system project\obj\Debug\net8.0\ref\inventory system project.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\Bytescout.Spreadsheet.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.CodeDom.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.ComponentModel.Composition.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.ComponentModel.Composition.Registration.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Data.Odbc.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Data.OleDb.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.DirectoryServices.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.DirectoryServices.AccountManagement.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.IO.Ports.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Management.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Private.ServiceModel.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Reflection.Context.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.ServiceModel.Http.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.ServiceModel.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.ServiceModel.Security.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.ServiceModel.Syndication.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.ServiceProcess.ServiceController.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Speech.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Threading.AccessControl.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.Messages.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\inventory system project\inventory system project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\inventory system project\inventory system project\obj\Debug\net8.0\inventory system project.csproj.AssemblyReference.cache
+D:\inventory system project\inventory system project\obj\Debug\net8.0\inventory system project.csproj.CopyComplete
